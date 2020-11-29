@@ -6,11 +6,11 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 ### Some websites I have created
 
-- [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
+1. [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
 
-- [A very broken version of a local web server I run](http://ethansgitsite.gearhostpreview.com/)
+2. [A very broken version of a local web server I run](http://ethansgitsite.gearhostpreview.com/)
 
-- [WARNING! This site may be uncomfortable for some people](spritecranberry.gearhostpreview.com)
+3. [WARNING! This site may be uncomfortable for some people](spritecranberry.gearhostpreview.com)
 
 
 # Here's a very nice picture of my cat.
