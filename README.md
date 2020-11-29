@@ -4,14 +4,6 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 - [Some of my coding projects](TheBozzz34.github.io/Code)
 
-### Some websites I have created
-
-1. [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
-
-2. [A very broken version of a local web server I run](http://ethansgitsite.gearhostpreview.com/)
-
-3. [WARNING! This site may be uncomfortable for some people](spritecranberry.gearhostpreview.com)
-
 
 # Here's a very nice picture of my cat.
 
