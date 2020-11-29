@@ -24,7 +24,19 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
+        
+        jobs:
+  api_audit_job:
+    runs-on: ubuntu-latest
+    name: Audit OpenAPI files
+    steps:
+      ...
+     - uses: 42Crunch/api-security-audit-action@v1
+      with:
+        api-token: ${{ secrets.API_TOKEN }}
+        min-score: 85
+        collection-name: GitHub Actions test collection
+        
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo Hello, world!
