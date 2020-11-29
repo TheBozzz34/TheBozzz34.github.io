@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 You can use the [editor on GitHub](https://github.com/TheBozzz34/TheBozzz34.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
