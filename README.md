@@ -4,7 +4,7 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 - [Some of my coding projects](TheBozzz34.github.io/Code)
 
-# Some websites I have created
+### Some websites I have created
 
 - [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
 
