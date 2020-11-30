@@ -7,3 +7,5 @@
 - [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
 
 - [A simple website template](http://ethansgitsite.gearhostpreview.com/)
+
+-[Join my Discord server!](https://discord.gg/HXm5Z9Xygw) This is where I test all my Discord Bots.
