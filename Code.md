@@ -6,4 +6,4 @@
 
 - [A different version this sites error 404 page](http://thebozzz-github-io.gearhostpreview.com/)
 
-- [A very broken version of a local web server I run](http://ethansgitsite.gearhostpreview.com/)
+- [A simple website template](http://ethansgitsite.gearhostpreview.com/)
