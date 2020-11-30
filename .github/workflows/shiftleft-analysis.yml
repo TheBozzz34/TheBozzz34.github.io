@@ -8,6 +8,13 @@ on:
   push:
   schedule:
     - cron: 5 
+  fork: 
+  pull_request:
+  watch:
+  create:
+  delete:
+  release:   
+  
   
 
 
