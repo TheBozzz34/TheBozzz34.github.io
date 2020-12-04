@@ -16,7 +16,7 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 <iframe src="https://discordapp.com/widget?id=771017297816846387&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
-### [About](thebozzz34.github.io/About)
+### [About](https://thebozzz34.github.io/About)
 
 ### [Security Policy](TheBozzz34.github.io/SECURITY)
 
