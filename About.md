@@ -6,4 +6,4 @@ I host a local reposotory of my makeshift server(an old 2014 Macbook Air running
 
 I use it to host a few other web servers. I monitor it with [NetData](https://netdata.cloud) which I have found to be very useful and fairly easy to setup.
 
-[Homepage](Thebozzz34.github.io)
+[Homepage](thebozzz34.github.io)
