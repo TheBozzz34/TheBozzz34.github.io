@@ -1,4 +1,6 @@
 github:
 is_project_page: false
 theme: jekyll-theme-slate
+- name: OpenShift Client Installer
+  uses: redhat-actions/oc-installer@v1
 
