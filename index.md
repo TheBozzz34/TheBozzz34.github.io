@@ -11,6 +11,16 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 [login](https://thebozzz34.github.io/login-page)
 
+<div class="card"> <div class="icon"><img src="https://api.minetools.eu/favicon/51.222.123.63/25616" ondragstart="return false;"></div><div class="header">
+  <div class="image"> <img src="https://media.discordapp.net/attachments/782729986117337108/797227215694725150/bruh.png" ondragstart="return false;" alt="" /> </div>
+  <h2></h2>
+  <h3>The Wooden Spoon SMP</h3>
+  </div>
+  <div id="rest"></div>
+</div>
+ 
+
+
 ### Contact
 
 - Discord **TheBozzzz#5275**
