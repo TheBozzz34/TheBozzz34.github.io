@@ -11,14 +11,7 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 [login](https://thebozzz34.github.io/login-page)
 
-<div class="card"> <div class="icon"><img src="https://api.minetools.eu/favicon/51.222.123.63/25616" ondragstart="return false;"></div><div class="header">
-  <div class="image"> <img src="https://media.discordapp.net/attachments/782729986117337108/797227215694725150/bruh.png" ondragstart="return false;" alt="" /> </div>
-  <h2></h2>
-  <h3>The Wooden Spoon SMP</h3>
-  </div>
-  <div id="rest"></div>
-</div>
- 
+
 
 
 ### Contact
@@ -34,3 +27,5 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 
 having trouble with this page? It may not be designed for mobile use. Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script src="https://l18x13w5nz23.statuspage.io/embed/script.js"></script>
