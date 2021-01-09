@@ -4,7 +4,7 @@ Here you can find useful commands and tutorials
 
 ### What version is the server?
 
-Our server utilizes the ViaVersion plugin, so you can connect with your favorite version from 1.8 to 1.16.4!
+Our server utilizes the ViaVersion plugin, so you can connect with your favorite version from 1.8 to 1.16.4! You can join it at the IP of 51.222.123.63:25616
 
 ### Rules
 
