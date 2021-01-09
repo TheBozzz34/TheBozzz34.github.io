@@ -13,7 +13,7 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 3. invite your friends!
 4. BE COOL
 
-### Tutoials and Links
+### Tutorials and Links
 
 - [Lockette](https://youtu.be/CVcU_ZPgF0E)
 
