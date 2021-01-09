@@ -81,5 +81,7 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 
 - WelcomeMessagePro
 
+- ExecutableItems
+
 
 ### Further Support and Plugin Requests Can Be Found [Here](https://discord.gg/mXwce6T9DF)
