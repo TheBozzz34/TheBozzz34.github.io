@@ -77,5 +77,9 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 
 - WorldGuard
 
+- BetterPotals
+
+- WelcomeMessagePro
+
 
 ### Further Support and Plugin Requests Can Be Found [Here](https://discord.gg/mXwce6T9DF)
