@@ -85,3 +85,5 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 
 
 ### Further Support and Plugin Requests Can Be Found [Here](https://discord.gg/mXwce6T9DF)
+
+<script src="https://l18x13w5nz23.statuspage.io/embed/script.js"></script>
