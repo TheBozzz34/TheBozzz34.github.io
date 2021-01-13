@@ -22,7 +22,7 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 - [Shopkeepers Setup](https://github.com/Shopkeepers/Shopkeepers-Wiki/wiki/Player-Shop-Setup)(you will need a shop creation item which you can get from Potato)
 
 ### Warps
-Since the server is so spread out we have a warp system. To access the warp list, do ``/warps`` then when you have chosen a warp, do ``/warp <Warp Name>```
+Since the server is so spread out we have a warp system. To access the warp list, do ``/warps`` then when you have chosen a warp, do ``/warp <Warp Name>`` To create a warp do ``/setwarp`` and do delete a warp do ``/delwarp``
 
 ### Commands and Plugin Use
 
