@@ -34,13 +34,15 @@ Since the server is so spread out we have a warp system. To access the warp list
 
 - We also have Silk Spawners and DoubleShulkerShells so mob spawners can be broken with silk touch and Shulkers drop two shells.
 
-### Complete Plugin List:
+### Contacting help
+
+There are several ways to get help, first and foremost is to join the discord. you will receive the most in depth help there. However if you do not have Discord, there are several ingame  ways to contact me If I am online, simply do /msg Potatodealer34 <Your Message Here> But, if I am not online, do /mail Potatodealer34 <Your Message Here>.
+
+### Complete Plugin List, Current count (27):
 
 - BetterSleeping3
 
 - CoreProtect
-
-- CustomCommands
 
 - DoubleShulkerShells
 
@@ -50,11 +52,7 @@ Since the server is so spread out we have a warp system. To access the warp list
 
 - EssentialsChat
 
-- GCoreLegacy
-
 - ImageOnMap
-
-- Lockette
 
 - LuckPerms
 
@@ -84,7 +82,15 @@ Since the server is so spread out we have a warp system. To access the warp list
 
 - WelcomeMessagePro
 
-- ExecutableItems
+- MultiverseCore
+
+- MultiversePortals
+
+- MultiverseInventories
+
+- CustomHeads
+
+- NametagEdit
 
 
 ### Further Support and Plugin Requests Can Be Found [Here](https://discord.gg/mXwce6T9DF)
