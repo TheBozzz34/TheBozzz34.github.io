@@ -44,6 +44,8 @@ There are several ways to get help, first and foremost is to join the discord. y
 
 - CoreProtect
 
+- DiscordSRV
+
 - DoubleShulkerShells
 
 - dynmap
@@ -63,8 +65,6 @@ There are several ways to get help, first and foremost is to join the discord. y
 - Shopkeepers
 
 - SilkSpawners
-
-- SuperVanish
 
 - Vault
 
@@ -88,9 +88,11 @@ There are several ways to get help, first and foremost is to join the discord. y
 
 - MultiverseInventories
 
-- CustomHeads
-
 - NametagEdit
+
+- ServerRestorer
+
+- InventoryRollback
 
 
 ### Further Support and Plugin Requests Can Be Found [Here](https://discord.gg/mXwce6T9DF)
