@@ -36,8 +36,7 @@ Since the server is so spread out we have a warp system. To access the warp list
 
 ### Contacting help
 
-There are several ways to get help, first and foremost is to join the discord. you will receive the most in depth help there. However if you do not have Discord, there are several ingame  ways to contact me If I am online, simply do /msg Potatodealer34 <Your Message Here> But, if I am not online, do /mail Potatodealer34 <Your Message Here>.
-
+There are several ways to get help, first and foremost is contact me If I am online, simply do /msg Potatodealer34 <Your Message Here>. You can also now submit a post to our forums!
 ### Complete Plugin List, Current count (27):
 
 - BetterSleeping3
