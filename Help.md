@@ -15,7 +15,7 @@ Our server utilizes the ViaVersion plugin, so you can connect with your favorite
 
 ### Tutorials and Links
 
-- [Lockette](https://youtu.be/CVcU_ZPgF0E)
+- [Forums](forums.wrathoftheteletubbies.live) (Currently in beta!)
 
 - [Dynamic Server Map](http://51.222.123.63:8123/)
 
