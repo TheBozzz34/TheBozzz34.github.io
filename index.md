@@ -16,16 +16,31 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 ### Contact
 
-- Discord **TheBozzzz#5275**
-- [GitHub](https://github.com/TheBozzz34)
+<form name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Your Role: <select name="role[]" multiple>
+      <option value="leader">Leader</option>
+      <option value="follower">Follower</option>
+    </select></label>
+  </p>
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
 
 <iframe src="https://discordapp.com/widget?id=771017297816846387&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ### [About](https://Thebozzz34.github.io/About)
 
 ### [Security Policy](TheBozzz34.github.io/SECURITY)
-
-
-having trouble with this page? It may not be designed for mobile use. Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 <script src="https://l18x13w5nz23.statuspage.io/embed/script.js"></script>
