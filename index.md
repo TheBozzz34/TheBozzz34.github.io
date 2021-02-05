@@ -24,10 +24,7 @@ Welcome to my website! I though this would be an interesting experiment to do, i
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
-    </select></label>
+    
   </p>
   <p>
     <label>Message: <textarea name="message"></textarea></label>
