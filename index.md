@@ -11,6 +11,40 @@ Welcome to my website! I though this would be an interesting experiment to do, i
 
 [login](https://thebozzz34.github.io/login-page)
 
+<script src="https://mcapi.us/scripts/minecraft.js"></script>
+<meta name=”viewport” content=”width=device-width”>
+<style type="text/css" media="screen">
+.statusbox {
+    min-height: 3em;
+            min-width: device-width;
+    border: 1px solid #66ffff;
+    border-radius: 1em;
+    background-color: #eee;
+    padding: 0.5em;
+    margin: 0.5em;
+    }
+</style>
+
+<div class="statusbox">
+<span class="label"> </span>
+<div class="server-status">
+   My awesome server is currently <span class="server-online"></span>!
+</div>
+<script>
+ MinecraftAPI.getServerStatus('67.0.192.245', {
+    port: 25565 // optional, only if you need a custom port
+  }, function (err, status) {
+    if (err) {
+  return document.querySelector('.server-status').innerHTML = 'Error loading status';
+    }
+
+// you can change these to your own message!
+    document.querySelector('.server-online').innerHTML = status.online ?     'up' : 'down';
+  });
+</script>
+
+</div>
+
 
 
 
